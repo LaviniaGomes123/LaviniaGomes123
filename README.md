@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! eu sou a Lavínia 👋
+👩‍💻Técnica em Analise e Desenvolvimento de Sistemas pelo Senai
 
-<!--
-**LaviniaGomes123/LaviniaGomes123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Cursando Sistemas de Informaçao
 
-Here are some ideas to get you started:
+##🎮 Tecnologias
+-HTML
+-CSS
+-JavaScript
+-Java
+-C#
+-SQL Server
+-MySQL
+-Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚔Criando projetos e desenvolvendo habilidades em programação 
+
+
+
+
